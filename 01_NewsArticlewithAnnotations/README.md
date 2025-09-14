@@ -5,7 +5,7 @@ This challenge uses only simple HTML — no CSS or JavaScript required.
 
 ---
 
-## 🧩 Description
+## Description
 You are given a plain paragraph about coffee. Convert it into an HTML file and apply the following inline tags correctly:
 
 - `b` — stylistic bold (no extra semantic importance)
@@ -21,12 +21,12 @@ You are given a plain paragraph about coffee. Convert it into an HTML file and a
 
 ---
 
-## ✍️ Given paragraph (use this text — do not change meaning)
+## Given paragraph (use this text — do not change meaning)
 Coffee is one of the most popular drinks in the world. In Italy, people often enjoy espresso as a daily habit. Some research shows that coffee may improve focus and give more energy, but drinking too much can be harmful. Years ago, people believed coffee caused dehydration, but scientists later corrected this fact. The chemical formula of caffeine is C8H10N4O2, and in math 2³ equals 8.
 
 ---
 
-## ✅ Requirements
+## Requirements
 - Create an HTML file: `index.html` inside the challenge folder.
 - Use **all** of these tags at least once: `b`, `strong`, `i`, `em`, `mark`, `small`, `del`, `ins`, `sub`, `sup`.
 - `del` and `ins` should form a meaningful correction pair (show a removed wrong fact and the inserted correct fact).
@@ -36,14 +36,14 @@ Coffee is one of the most popular drinks in the world. In Italy, people often en
 
 ---
 
-## 🛠 Deliverables
+## Deliverables
 - `index.html` — the article HTML using the required tags
 - `README.md` — this file (already present)
 - Optional: `solution.html` (only if you want to include a reference solution in a separate file or folder)
 
 ---
 
-## 🔍 Success checklist (self-verify)
+## Success checklist (self-verify)
 - [ ] `index.html` exists in `challenges/Challenge-01-NewsArticleWithAnnotations/`
 - [ ] All tags `b, strong, i, em, mark, small, del, ins, sub, sup` appear at least once
 - [ ] `del` and `ins` show a correction (not random text)
