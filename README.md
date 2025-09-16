@@ -15,4 +15,4 @@ The goal is to practice by doing — each challenge is short, simple, and focuse
 ## How to Use  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/rezatajari/WebBasicsChallenges.git
+   git clone https://github.com/rezatajari/WebChallenges.git
