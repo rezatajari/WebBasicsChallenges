@@ -1,4 +1,4 @@
-# WebBasicsChallenges  
+# WebChallenges  
 
 A collection of small, hands-on coding challenges to learn **HTML**, **CSS**, and **JavaScript** step by step.  
 The goal is to practice by doing — each challenge is short, simple, and focused on one concept at a time.  
