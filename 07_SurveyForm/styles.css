@@ -1,0 +1,111 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(img/tree.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+     background-attachment: fixed;
+
+}
+
+.container {
+    display: flex;
+    flex-direction: column;  
+    align-items: center;
+}
+
+.form-title {
+    text-align: center;
+    color: white;           
+    margin-bottom: 20px;
+}
+
+.form-title p{
+        text-align: center;
+    color: #f0f0f0; /* light gray for contrast */
+    font-size: 1rem;
+    margin-top: 5px
+}
+
+input::placeholder,
+textarea::placeholder {
+    color: rgba(255, 255, 255, 0.7);  /* light white for dark background */
+    font-style: italic;
+}
+.form-container {
+    background-color: rgba(0, 0, 0, 0.5); color: white;
+    width: 80%;
+    max-width: 500px;
+    min-width: 100px;
+    padding: 20px 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(81, 143, 27, 0.904);
+}
+.form-group{
+    width: 100%;
+}
+
+.form-group label {
+    display: block;
+    width: 100%;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+.bio input,
+select,
+textarea {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid rgba(255,255,255,0.6);
+    background-color: rgba(68, 156, 238, 0.45);
+    color: white;
+    font-size: 16px;
+    outline: none;
+    box-sizing: border-box;
+    margin: 10px 0;
+}
+
+.bio input:focus,
+select:focus,
+textarea:focus {
+    border: 1px solid #4CAF50;           
+    background-color: rgba(125, 141, 230, 0.7);
+}
+
+select{
+    text-align: center;
+}
+
+.hobby-label{
+    display: block;
+}
+
+textarea{
+    resize: none;
+}
+
+.form-group input[type="submit"]{
+    width: 100%;
+   background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.form-group input[type="submit"]:hover{
+    background-color: #45a049;
+}
+
+.form-group input[type="submit"]:active{
+    transform: scale(0.95);
+}
