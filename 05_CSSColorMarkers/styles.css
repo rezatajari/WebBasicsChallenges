@@ -8,8 +8,13 @@ h1 {
   margin: 10px auto;
 }
 
-.one{
+.one {
   background-color: red;
 }
 
-
+.two{
+  background-color:green;
+}
+.three{
+  background-color:blue;
+}
