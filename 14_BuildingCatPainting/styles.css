@@ -12,16 +12,21 @@ body{
     border: 1px solid #000;
     border-radius: 46%;
     background: linear-gradient( #5e5e5e 85%, #45454f 100%);
-    position: sticky;
+    position: absolute;
     top: 0;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    
 }
 
-
-.box{
-    width: 200px;
-    height: 600px;
-    background-color: #000;
-    left: 650px;
-    top: 800px;
-    position: absolute;
+.cat-right-ear{
+    width: 0;
+    height: 0;
+    border-right: 35px solid transparent;
+    border-left: 35px solid transparent;
+    border-top: 35px solid transparent;
+    border-bottom: 35px solid red;
 }
