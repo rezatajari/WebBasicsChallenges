@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Technical Documentation Page</title>
+</head>
+<body>
+     <nav id="navbar">
+             <header>Technical Documentation</header>
+            <ul>
+                <li><a class="nav-link" href="#HTML_Basics">HTML Basics</a></li>
+                <li><a class="nav-link" href="#CSS_Basics">CSS Basics</a></li>
+                <li><a class="nav-link" href="#JavaScript_Basics">JavaScript Basics</a></li>
+                <li><a class="nav-link" href="#DOM_Manipulation">DOM Manipulation</a></li>
+                <li><a class="nav-link" href="#APIs_and_Fetch">APIs and Fetch</a></li>
+            </ul>
+        </nav>
+    <main id="main-doc">
+      <section class="main-section" id="HTML_Basics">
+    <header>HTML Basics</header>
+    
+    <p>HTML stands for HyperText Markup Language.</p>
+    <p>It is used to create and structure sections, paragraphs, and links on web pages.</p>
+    <p>HTML elements form the building blocks of every website.</p>
+    <p>Common tags include <code>&lt;div&gt;</code>, <code>&lt;p&gt;</code>, and <code>&lt;a&gt;</code>.</p>
+    <p>HTML5 introduced semantic tags such as <code>&lt;header&gt;</code> and <code>&lt;footer&gt;</code>.</p>
+
+    <code>&lt;!DOCTYPE html&gt;</code>
+    <code>&lt;html&gt;</code>
+    <code>&lt;head&gt;&lt;/head&gt;</code>
+    <code>&lt;body&gt;&lt;/body&gt;</code>
+    <code>&lt;p&gt;Hello World&lt;/p&gt;</code>
+
+    <ul>
+        <li>Use semantic tags for better accessibility.</li>
+        <li>Close all HTML tags properly.</li>
+        <li>Use attributes to add more information to elements.</li>
+        <li>Use forms to collect user input.</li>
+        <li>Include images with <code>&lt;img&gt;</code> tags.</li>
+    </ul>
+</section>
+<section class="main-section" id="CSS_Basics">
+    <header>CSS Basics</header>
+    
+    <p>CSS stands for Cascading Style Sheets.</p>
+    <p>It is used to style HTML elements, controlling colors, fonts, and layout.</p>
+    <p>CSS rules consist of selectors and declarations.</p>
+    <p>Use classes and IDs to target elements effectively.</p>
+    <p>Modern layouts can be created using Flexbox and Grid.</p>
+
+    <code>p { color: blue; }</code>
+    <code>.container { display: flex; }</code>
+    <code>#header { font-size: 24px; }</code>
+    <code>ul li { margin-bottom: 10px; }</code>
+    <code>@media (max-width: 768px) { ... }</code>
+
+    <ul>
+        <li>Use external stylesheets for maintainability.</li>
+        <li>Use semantic selectors for better readability.</li>
+        <li>Box model includes margin, border, padding, and content.</li>
+        <li>Media queries make your site responsive.</li>
+        <li>CSS transitions and animations can add interactivity.</li>
+    </ul>
+</section>
+
+  <section class="main-section" id="JavaScript_Basics">
+    <header>JavaScript Basics</header>
+      <p>JavaScript is a programming language for the web.</p>
+      <p>It allows dynamic content and interactivity.</p>
+      <p>Variables store data using <code>let</code> or <code>const</code>.</p>
+      <ul>
+        <li>Functions allow code reuse.</li>
+        <li>Conditionals control logic with <code>if</code> statements.</li>
+        <li>Loops iterate over data.</li>
+      </ul>
+      <p>Events let you respond to user actions.</p>
+      <p>DOM manipulation is done via JavaScript.</p>
+      <p>Arrays and objects store collections of data.</p>
+      <p>JavaScript ES6+ adds features like arrow functions and template literals.</p>
+      <p>Always test your code in multiple browsers.</p>
+</section>
+
+<section class="main-section" id="DOM_Manipulation">
+    <header>DOM Manipulation</header>
+    
+    <p>The DOM (Document Object Model) represents the structure of a web page.</p>
+    <p>You can select elements using methods like <code>document.querySelector()</code> or <code>document.getElementById()</code>.</p>
+    <p>Content can be changed dynamically with <code>innerHTML</code> or <code>textContent</code>.</p>
+    <p>Styles can be modified using the <code>style</code> property.</p>
+    <p>Elements can be added or removed with <code>appendChild()</code> and <code>removeChild()</code>.</p>
+
+    <code>const heading = document.getElementById("title");</code>
+    <code>heading.textContent = "Hello World";</code>
+    <code>const newDiv = document.createElement("div");</code>
+    <code>document.body.appendChild(newDiv);</code>
+    <code>element.classList.add("active");</code>
+
+    <ul>
+        <li>Select elements using IDs, classes, or tags.</li>
+        <li>Change content dynamically.</li>
+        <li>Modify styles on the fly.</li>
+        <li>Add or remove DOM elements as needed.</li>
+        <li>Use event listeners to react to user interactions.</li>
+    </ul>
+</section>
+
+   <section class="main-section" id="APIs_and_Fetch">
+    <header>APIs and Fetch</header>
+    
+    <p>APIs allow different software applications to communicate with each other.</p>
+    <p>The Fetch API is used to make network requests in JavaScript.</p>
+    <p>Responses from APIs are often in JSON format.</p>
+    <p>Asynchronous code can be handled using Promises or async/await.</p>
+    <p>Always handle errors properly to avoid breaking the application.</p>
+
+    <code>fetch("https://api.example.com/data")</code>
+    <code>.then(response => response.json())</code>
+    <code>.then(data => console.log(data))</code>
+    <code>async function getData() { const response = await fetch(url); }</code>
+    <code>try { ... } catch(error) { console.error(error); }</code>
+
+    <ul>
+        <li>Use fetch() to request data from servers.</li>
+        <li>Handle asynchronous operations with Promises.</li>
+        <li>Use async/await for cleaner code.</li>
+        <li>Check response status before using the data.</li>
+        <li>Document API calls for maintainability.</li>
+    </ul>
+</section>
+
+    </main>
+</body>
+</html>
