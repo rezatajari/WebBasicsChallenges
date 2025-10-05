@@ -1,92 +1,60 @@
 # Challenge 21 — Teacher Chatbot
 
-**Responsive Web Design Certification – freeCodeCamp**
-
-In this challenge, you create a **JavaScript program** where the bot teaches string manipulation concepts such as **template literals, string length, character access, and substring positions**. This project helps you practice dynamically building sentences and using string properties.
+This project is a **JavaScript console chatbot** designed to teach string manipulation concepts such as template literals, string length, character access, and substring positions. It demonstrates how to dynamically build sentences and use string properties in JavaScript.
 
 ---
 
 ## Demo
 
-When you run the program, the console outputs a series of explanations and examples:
+When you run the program, the console outputs a series of explanations and examples, including:
 
-```
-
-Hi there!
-My name is teacherBot.
-Today, you will learn about strings in JavaScript.
-Here is an example of using the length property on the word JavaScript.
-10
-Here is an example of using the length property on the word strings.
-7
-Here is an example of accessing the first letter in the word JavaScript.
-J
-Here is an example of accessing the second letter in the word JavaScript.
-a
-Here is an example of accessing the last letter in the word JavaScript.
-t
-Here are examples of finding the positions of substrings in the sentence.
-0
-13
--1
-I hope you enjoyed learning today.
-
-````
+- A greeting from the bot
+- Introduction to string manipulation concepts
+- Examples of using string length
+- Examples of accessing first, second, and last characters of words
+- Examples of finding positions of substrings within sentences
+- A farewell message
 
 ---
 
 ## Concepts Covered
 
-- **Template literals** for dynamic string creation:  
-  ```javascript
-  const greeting = `My name is ${botName}.`;
-````
-
-**String length** with `.length`:
-
-  ```javascript
-  console.log(subject.length);
-  ```
-
-**Accessing characters** using bracket notation:
-
-  ```javascript
-  console.log(subject[0]);        // First character
-  console.log(subject[subject.length - 1]); // Last character
-  ```
-
-**Finding substring positions** with `.indexOf()`:
-
-  ```javascript
-  console.log(learningIsFunSentence.indexOf("fun"));
-  ```
+- **Template literals** for dynamic sentence creation  
+- **String length** to determine the number of characters in a word or phrase  
+- **Accessing characters** using bracket notation to get specific letters  
+- **Finding substring positions** to locate words or phrases within a sentence  
 
 ---
+
 ## How It Works
 
-1. Declare a `botName` and greet the user.
-2. Introduce a `subject` and `topic` and create dynamic sentences using **template literals**.
-3. Show examples of using the `.length` property on strings.
-4. Demonstrate **accessing the first, second, and last characters** of a string.
-5. Use `.indexOf()` to locate substrings within a sentence.
-6. Conclude with a farewell message to the user.
+1. The bot introduces itself to the user.  
+2. Example words are presented to demonstrate string properties.  
+3. The program dynamically constructs sentences using template literals.  
+4. It shows how to determine the length of strings.  
+5. It demonstrates accessing the first, second, and last characters of a string.  
+6. It locates substrings within a sentence using position-finding methods.  
+7. The bot concludes with a friendly farewell.
 
 ---
+
 ## How to Run
 
-1. Copy the code into a file named `stringBot.js`.
-2. Open your terminal or command prompt and navigate to the file’s directory.
-3. Run the script using Node.js:
-
-```bash
-node stringBot.js
-```
-
-4. Observe the output in the console.
+1. Copy the project into a file named `stringBot.js`.  
+2. Open your terminal or command prompt and navigate to the file’s directory.  
+3. Run the script using Node.js.  
+4. Observe the interactive console output from the bot.
 
 ---
-## Technologies
 
-* **JavaScript (ES6)**
-* **Console output**
-* **String properties and methods**
+## Technologies Used
+
+- JavaScript (ES6)  
+- Console output  
+- String properties and methods  
+
+---
+
+## Author
+
+Created for the **Responsive Web Design Certification** on freeCodeCamp.

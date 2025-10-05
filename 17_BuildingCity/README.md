@@ -61,23 +61,8 @@ Add depth and contrast with more detailed shapes and window patterns.
 2. Open `index.html` in your browser.  
 3. Resize the window to see the responsive day-to-night transition.  
 
----
-
 ## Technologies
 
 - HTML5  
 - CSS3 (Variables, Gradients, Flexbox, Media Queries)
 
----
-
-## License
-
-This project is part of the **freeCodeCamp Responsive Web Design** certification.  
-You are free to use, modify, and share it for educational purposes.
-
----
-
-### Author
-
-Built by **[Your Name]**  
-Inspired by *freeCodeCamp Challenge 17: Learn CSS Variables by Building a City Skyline*

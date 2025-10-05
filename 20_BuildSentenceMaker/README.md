@@ -51,7 +51,6 @@ Second story: Once upon a time, there was a(n) happy unicorn who loved to eat co
 
 4. Enjoy seeing two dynamic stories printed in the console.
 
----
 ## Technologies
 
 * **JavaScript (ES6)**

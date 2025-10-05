@@ -55,8 +55,6 @@ Well, it was nice to talk to you. Have a nice day!
 
 4. Observe the bot’s introduction printed line by line in the console.
 
----
-
 ## Technologies
 
 * **JavaScript (ES6)**
