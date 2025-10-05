@@ -57,7 +57,7 @@ Well, it was nice to talk to you. Have a nice day!
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 * **JavaScript (ES6)**
 * **Console output**

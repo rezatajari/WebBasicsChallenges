@@ -1,4 +1,4 @@
-# 🏙️ Challenge 17 — Build a City
+# Challenge 17 — Build a City
 
 **Responsive Web Design Certification – freeCodeCamp**
 
@@ -7,13 +7,13 @@ This project demonstrates how to use CSS gradients, variables, and media queries
 
 ---
 
-## 📸 Demo
+## Demo
 
 A colorful city skyline that transitions from a bright sunny day to a calm night scene when the screen width is below 1000 pixels.
 
 ---
 
-## 🧠 Concepts Covered
+## Concepts Covered
 
 - CSS Variables for reusable colors and styles  
 - Linear and radial gradients for backgrounds and lighting effects  
@@ -25,7 +25,7 @@ A colorful city skyline that transitions from a bright sunny day to a calm night
 
 ---
 
-## 🧩 Files
+## Files
 
 | File | Description |
 |------|--------------|
@@ -35,7 +35,7 @@ A colorful city skyline that transitions from a bright sunny day to a calm night
 
 ---
 
-## 🏗️ How It Works
+## How It Works
 
 The skyline is divided into two layers: background and foreground buildings.  
 Each building is constructed with simple shapes, borders, and gradients.  
@@ -45,7 +45,7 @@ When the browser width goes below 1000 pixels, the scene smoothly transitions fr
 
 ---
 
-## 🧱 Building Sections
+## Building Sections
 
 ### Background Buildings
 Represent the distant skyline layer, designed with softer colors.
@@ -55,7 +55,7 @@ Add depth and contrast with more detailed shapes and window patterns.
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone or download this project folder.  
 2. Open `index.html` in your browser.  
@@ -63,21 +63,21 @@ Add depth and contrast with more detailed shapes and window patterns.
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 - HTML5  
 - CSS3 (Variables, Gradients, Flexbox, Media Queries)
 
 ---
 
-## 🧾 License
+## License
 
 This project is part of the **freeCodeCamp Responsive Web Design** certification.  
 You are free to use, modify, and share it for educational purposes.
 
 ---
 
-### 👨‍💻 Author
+### Author
 
 Built by **[Your Name]**  
 Inspired by *freeCodeCamp Challenge 17: Learn CSS Variables by Building a City Skyline*

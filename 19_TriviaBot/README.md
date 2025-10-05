@@ -56,7 +56,6 @@ It was fun sharing these facts with you. Goodbye! - Codey from the Internet.
 4. Enjoy the bot introducing itself and sharing fun programming facts in the console.
 
 ---
-
 ## Technologies
 
 * **JavaScript (ES6)**

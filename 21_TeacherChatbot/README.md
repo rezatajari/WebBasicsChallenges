@@ -42,27 +42,26 @@ I hope you enjoyed learning today.
   const greeting = `My name is ${botName}.`;
 ````
 
-* **String length** with `.length`:
+**String length** with `.length`:
 
   ```javascript
   console.log(subject.length);
   ```
 
-* **Accessing characters** using bracket notation:
+**Accessing characters** using bracket notation:
 
   ```javascript
   console.log(subject[0]);        // First character
   console.log(subject[subject.length - 1]); // Last character
   ```
 
-* **Finding substring positions** with `.indexOf()`:
+**Finding substring positions** with `.indexOf()`:
 
   ```javascript
   console.log(learningIsFunSentence.indexOf("fun"));
   ```
 
 ---
-
 ## How It Works
 
 1. Declare a `botName` and greet the user.
@@ -73,7 +72,6 @@ I hope you enjoyed learning today.
 6. Conclude with a farewell message to the user.
 
 ---
-
 ## How to Run
 
 1. Copy the code into a file named `stringBot.js`.
@@ -87,7 +85,6 @@ node stringBot.js
 4. Observe the output in the console.
 
 ---
-
 ## Technologies
 
 * **JavaScript (ES6)**
