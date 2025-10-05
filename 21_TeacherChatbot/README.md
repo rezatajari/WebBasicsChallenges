@@ -53,8 +53,4 @@ When you run the program, the console outputs a series of explanations and examp
 - Console output  
 - String properties and methods  
 
----
 
-## Author
-
-Created for the **Responsive Web Design Certification** on freeCodeCamp.
