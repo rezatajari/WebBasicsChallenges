@@ -51,7 +51,6 @@ It was fun sharing these facts with you. Goodbye! - Codey from the Internet.
 3. Run the script using Node.js:  
    ```bash
    node triviaBot.js
-````
 
 4. Enjoy the bot introducing itself and sharing fun programming facts in the console.
 
