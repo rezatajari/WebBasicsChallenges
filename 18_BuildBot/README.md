@@ -51,7 +51,6 @@ Well, it was nice to talk to you. Have a nice day!
 3. Run the script using Node.js:  
    ```bash
    node botIntroduction.js
-````
 
 4. Observe the bot’s introduction printed line by line in the console.
 
