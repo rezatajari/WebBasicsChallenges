@@ -6,6 +6,6 @@ function truncateString(str, num) {
   }
 }
 
-console.log(truncateString("A-tisket a-tasket A green and yellow basket", 8)); // "A-tisket..."
-console.log(truncateString("Hello World", 5));                                   // "Hello..."
-console.log(truncateString("Hi", 2));                                           // "Hi"
+console.log(truncateString("A-tisket a-tasket A green and yellow basket", 8)); 
+console.log(truncateString("Hello World", 5));                                  
+console.log(truncateString("Hi", 2));                                 
