@@ -4,9 +4,11 @@
 
 ## Overview
 
-**WebChallenges** is a personal learning repository where I document and practice I learn from frontend development. The goal is to reinforce learning through hands-on exercises and challenges, ensuring that theoretical knowledge translates into practical skills.
+**WebChallenges** is a personal learning repository designed to document and practice everything I learn from frontend development. The purpose of this repository is to **reinforce knowledge through hands-on exercises**, ensuring that theoretical concepts are solidified by practice.
 
-I primarily follow the [FreeCodeCamp Full Stack Developer curriculum](https://www.freecodecamp.org/learn/full-stack-developer), covering HTML, CSS, and JavaScript frontend technologies. Every challenge, small project, or experiment is added here to track progress and build a practical reference library.
+I primarily follow the [FreeCodeCamp Full Stack Developer curriculum](https://www.freecodecamp.org/learn/full-stack-developer), covering HTML, CSS, and JavaScript frontend technologies. Each challenge, mini-project, or experiment is included with its own README, explaining the exercise and its objectives.
+
+The philosophy behind this repository is **learning by doing**: each exercise is self-contained so that anyone who wants to improve their skills can first **read the README, attempt the exercise themselves**, and then **review the source code** to compare and learn best practices. This approach encourages active learning and problem-solving, which is the most effective way to develop real-world skills.
 
 ---
 
