@@ -1,4 +1,4 @@
-### Challenge 38 — SVG Heart Icon
+### SVG Heart Icon
 
 This challenge focuses on creating and displaying a **Scalable Vector Graphic (SVG)** icon directly within an HTML document. SVGs are resolution-independent graphics used widely in modern web design for icons, logos, and illustrations.
 

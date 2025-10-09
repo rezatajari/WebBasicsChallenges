@@ -1,4 +1,4 @@
-# Challenge 34 – Debug a Pet Adoption Page
+# Debug a Pet Adoption Page
 
 ## Objective
 

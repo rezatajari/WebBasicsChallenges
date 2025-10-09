@@ -1,4 +1,4 @@
-# Challenge 37 – Build a Travel Agency Page
+# Build a Travel Agency Page
 
 ## Objective
 

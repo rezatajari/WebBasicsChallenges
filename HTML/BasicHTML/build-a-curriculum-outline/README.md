@@ -1,4 +1,4 @@
-# Challenge 32 – Headings and Paragraphs
+# Headings and Paragraphs
 
 ## Objective
 

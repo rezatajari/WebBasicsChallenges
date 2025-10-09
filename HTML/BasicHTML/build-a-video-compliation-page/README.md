@@ -1,4 +1,4 @@
-### Challenge 40 — Build a Video Compilation Page
+### Build a Video Compilation Page
 
 This challenge focuses on building a **Video Compilation Page** that organizes multiple videos under different topics using semantic HTML structure. The goal is to practice structuring content clearly and embedding multimedia responsibly.
 

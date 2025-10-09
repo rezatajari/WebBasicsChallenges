@@ -1,4 +1,4 @@
-# Challenge 33 – Debug Camperbot’s Profile Page
+# Debug Camperbot’s Profile Page
 
 ## Objective
 

@@ -1,4 +1,4 @@
-# Challenge 03 — CatPhotoApp
+# Cat Photo App
 
 **Goal:** Practice basic HTML structure by creating a simple cat photo webpage.
 

@@ -1,4 +1,4 @@
-# Challenge 35 – Build a Recipe Page
+# Build a Recipe Page
 
 ## Objective
 

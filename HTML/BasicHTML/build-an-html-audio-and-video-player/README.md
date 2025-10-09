@@ -1,4 +1,4 @@
-### Challenge 37 — Multimedia Page
+### Multimedia Page
 
 This project demonstrates how to use HTML multimedia elements to create a page that plays both a video and an audio track. The goal is to understand how to structure a simple webpage that integrates interactive media content using semantic HTML elements.
 

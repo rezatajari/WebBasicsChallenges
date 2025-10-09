@@ -1,4 +1,4 @@
-### Challenge 39 — Embedding Videos Using an iframe
+### Embedding Videos Using an iframe
 
 This challenge demonstrates how to embed external video content into a web page using the HTML `<iframe>` element. The goal is to understand how iframes work and how they can be safely and responsively integrated into a webpage.
 
