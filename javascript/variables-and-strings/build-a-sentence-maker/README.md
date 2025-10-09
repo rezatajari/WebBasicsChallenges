@@ -1,4 +1,4 @@
-# Challenge 20 — Story Maker
+# Story Maker
 
 **Responsive Web Design Certification – freeCodeCamp**
 

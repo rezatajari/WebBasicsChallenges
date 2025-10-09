@@ -1,4 +1,4 @@
-# Challenge 29 — Card Counting Assistant
+# Card Counting Assistant
 
 ## Overview
 

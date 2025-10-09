@@ -1,4 +1,4 @@
-#  Challenge 18 — Build a Bot
+#  Build a Bot
 
 **Responsive Web Design Certification – freeCodeCamp**
 

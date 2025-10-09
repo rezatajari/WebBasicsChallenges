@@ -1,4 +1,4 @@
-# Challenge 27 — Loan Qualification Checker
+# Loan Qualification Checker
 
 ## Overview
 

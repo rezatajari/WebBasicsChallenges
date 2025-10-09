@@ -1,4 +1,4 @@
-# Challenge 24 — Calculator
+# Calculator
 
 ## Overview
 

@@ -1,4 +1,4 @@
-# Challenge 23 — Fortune Teller
+# Fortune Teller
 
 ## Overview
 

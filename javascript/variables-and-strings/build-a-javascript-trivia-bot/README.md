@@ -1,4 +1,4 @@
-# Challenge 19 — Build a Trivia Bot
+# Build a Trivia Bot
 
 **Responsive Web Design Certification – freeCodeCamp**
 

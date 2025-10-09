@@ -1,4 +1,4 @@
-# Challenge 25 — Boolean Check Function
+# Boolean Check Function
 
 ## Overview
 

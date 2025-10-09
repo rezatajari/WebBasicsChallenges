@@ -1,4 +1,4 @@
-# Challenge 31 — Truncate a String
+# Truncate a String
 
 ## Overview
 

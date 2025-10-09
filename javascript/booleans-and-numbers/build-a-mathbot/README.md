@@ -1,4 +1,4 @@
-# Challenge 22 — MathBot
+# MathBot
 
 ## Overview
 

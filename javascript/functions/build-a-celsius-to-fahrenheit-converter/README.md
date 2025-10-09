@@ -1,4 +1,4 @@
-# Challenge 28 — Celsius to Fahrenheit Converter
+# Celsius to Fahrenheit Converter
 
 ## Overview
 

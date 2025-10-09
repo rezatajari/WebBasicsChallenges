@@ -1,4 +1,4 @@
-# Challenge 26 — Email Masker
+# Email Masker
 
 ## Overview
 

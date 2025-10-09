@@ -1,4 +1,4 @@
-# Challenge 30 — Leap Year Calculator
+# Leap Year Calculator
 
 ## Overview
 

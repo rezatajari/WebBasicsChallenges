@@ -1,4 +1,4 @@
-# Challenge 21 — Teacher Chatbot
+# Teacher Chatbot
 
 This project is a **JavaScript console chatbot** designed to teach string manipulation concepts such as template literals, string length, character access, and substring positions. It demonstrates how to dynamically build sentences and use string properties in JavaScript.
 
